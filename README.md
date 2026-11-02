@@ -36,6 +36,16 @@ When importing a full project into a non-empty document, the English interface a
 
 [Detailed documentation](README-DETAILS.md) · [All releases](https://github.com/FajkPes/TexGen-Studio/releases)
 
+## Notes
+
+- Very high export resolutions and supersampling can require significant GPU memory.
+- The built-in gallery is limited by the browser's local-storage quota, so export important work as JSON.
+- If the application reports that WebGL is unavailable, enable hardware acceleration or try an up-to-date Chromium- or Firefox-based browser.
+
+## Language
+
+English is selected automatically on first launch. Use the `CS`/`EN` button in the top bar to switch languages. The selection is remembered locally by the browser.
+
 ## Credits
 
 **Idea, concept and design:** FajkPes  
