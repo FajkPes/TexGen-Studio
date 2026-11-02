@@ -35,3 +35,8 @@ TexGen automatically keeps the current session and gallery in the browser's loca
 When importing a full project into a non-empty document, the English interface asks for `REPLACE` or `ADD`. Older Czech commands remain accepted for compatibility.
 
 [Detailed documentation](README-DETAILS.md) · [All releases](https://github.com/FajkPes/TexGen-Studio/releases)
+
+## Credits
+
+**Idea, concept and design:** FajkPes  
+**Coding:** ChatGPT Codex, Claude and Google Antigravity
